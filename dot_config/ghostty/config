@@ -1,0 +1,6 @@
+font-family = "Maple Mono NF CN"
+theme = "light:Breeze,dark:gruvbox-material"
+clipboard-read = "allow"
+clipboard-write = "allow"
+shell-integration = "zsh"
+macos-icon = "xray"
