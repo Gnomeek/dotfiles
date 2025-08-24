@@ -40,3 +40,8 @@ echo "Install essential tools"
 # fzf
 # [starship](https://github.com/starship/starship) is a shell prompt
 brew install git jq loop orbstack gh uv n zed maccy raycast squirrel-app zoxide fzf starship
+
+
+echo "Zsh..."
+# Zinit
+bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/zdharma-continuum/zinit/HEAD/scripts/install.sh)"
