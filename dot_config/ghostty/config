@@ -1,4 +1,4 @@
-font-family = "Maple Mono NF CN"
+font-family = "Fira Code"
 theme = "light:Breeze,dark:gruvbox-material"
 clipboard-read = "allow"
 clipboard-write = "allow"

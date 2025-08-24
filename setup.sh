@@ -23,6 +23,7 @@ brew install --cask jordanbaird-ice cherry-studio shottr input-source-pro fork g
 
 echo "Install fonts"
 brew install --cask font-maple-mono font-maple-mono-nf font-maple-mono-nf-cn
+brew install font-fira-code
 
 
 echo "Install essential tools"
