@@ -17,7 +17,8 @@ echo "Install essential Apps"
 # ghostty for terminal
 # chezmoi to manage dotfiles
 # applite to manage brew cask
-brew install --cask jordanbaird-ice cherry-studio shottr input-source-pro fork ghostty chezmoi applite font-maple-mono font-maple-mono-nf font-maple-mono-nf-cn
+# the-unarchiver for unzip
+brew install --cask jordanbaird-ice cherry-studio shottr input-source-pro fork ghostty chezmoi applite the-unarchiver font-maple-mono font-maple-mono-nf font-maple-mono-nf-cn
 
 
 echo "Install essential tools"
