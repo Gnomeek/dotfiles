@@ -19,7 +19,7 @@ echo "Install essential Apps"
 # applite to manage brew cask
 # the-unarchiver for unzip
 # visual-studio-code for coding
-brew install --cask jordanbaird-ice cherry-studio shottr input-source-pro fork ghostty chezmoi applite the-unarchiver visual-studio-code
+brew install --cask jordanbaird-ice cherry-studio shottr input-source-pro fork ghostty chezmoi applite the-unarchiver visual-studio-code 1password
 
 echo "Install fonts"
 brew install --cask font-maple-mono font-maple-mono-nf font-maple-mono-nf-cn
