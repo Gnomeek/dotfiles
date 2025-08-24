@@ -18,7 +18,11 @@ echo "Install essential Apps"
 # chezmoi to manage dotfiles
 # applite to manage brew cask
 # the-unarchiver for unzip
-brew install --cask jordanbaird-ice cherry-studio shottr input-source-pro fork ghostty chezmoi applite the-unarchiver font-maple-mono font-maple-mono-nf font-maple-mono-nf-cn
+# visual-studio-code for coding
+brew install --cask jordanbaird-ice cherry-studio shottr input-source-pro fork ghostty chezmoi applite the-unarchiver visual-studio-code
+
+echo "Install fonts"
+brew install --cask font-maple-mono font-maple-mono-nf font-maple-mono-nf-cn
 
 
 echo "Install essential tools"
@@ -33,4 +37,5 @@ echo "Install essential tools"
 # squirrel-app input
 # zoxide for directory navigation
 # fzf
-brew install git jq loop orbstack gh uv n zed maccy raycast squirrel-app zoxide fzf
+# [starship](https://github.com/starship/starship) is a shell prompt
+brew install git jq loop orbstack gh uv n zed maccy raycast squirrel-app zoxide fzf starship
