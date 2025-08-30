@@ -39,7 +39,7 @@ echo "Install essential tools"
 # zoxide for directory navigation
 # fzf
 # [starship](https://github.com/starship/starship) is a shell prompt
-brew install git jq loop orbstack gh uv n zed maccy raycast squirrel-app zoxide fzf starship pnpm gemini ripgrep
+brew install git jq loop orbstack gh uv n zed maccy raycast squirrel-app zoxide fzf starship pnpm gemini ripgrep 1password-cli
 
 
 echo "Zsh..."
