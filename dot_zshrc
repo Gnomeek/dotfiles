@@ -40,3 +40,4 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=8"
 
 eval "$(zoxide init zsh)"
 source ~/.zshrc_secret
+export PATH="$HOME/.local/bin:$PATH"
