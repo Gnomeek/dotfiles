@@ -1,5 +1,5 @@
-font-family = "Fira Code"
-theme = "light:Breeze,dark:gruvbox-material"
+font-family = "IoskeleyMono"
+theme = "Nord Light"
 clipboard-read = "allow"
 clipboard-write = "allow"
 shell-integration = "zsh"
